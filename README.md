@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Scoop
 
 ## Project Overview
@@ -104,3 +105,19 @@ As you implement functionality, run the tests to
 ensure you are creating correctly named variables and functions that return the proper values.
 The tests will additionally help you identify edge cases that you may not have anticipated
 when first writing the functions.
+=======
+# Scoop - Writing articles & comments to DB 
+
+## Description:
+Codecademy - Build API's Unit 3 final project. Users can login, create articles, write comments, edit and delete both, and upvote/downvote both.
+
+## Key skills:
+- demonstration of how RESTful API's work and custom programming of a common UI
+- writing routes
+- writing functions to make various API calls
+- saving user activity to DB and loading saved instance
+- ensuring code passes all relevant tests
+
+## How to test:
+`node server.js` and open the `index.js` file in a browser to see it working. Assuming npm and node are properly installed.
+>>>>>>> 52282d93a1eb39dd6064314c90b5081778212e6e
