@@ -1,3 +1,10 @@
+# Unit 3 Final Project Submission
+This repo, specifically the routes for `/comments` and the `loadDatabase`/`saveDatabase` functions in the `server.js` file is code I wrote for a Codecademy homework assignment. A full description for the project is included below.
+
+## Key skills demonstrated:
+- using TDD
+- understanding and implementation of RESTful API
+
 # The Scoop
 
 ## Project Overview
