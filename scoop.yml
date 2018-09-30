@@ -1,0 +1,51 @@
+users:
+  victor:
+    username: victor
+    articleIds:
+      - 1
+      - 2
+    commentIds:
+      - 1
+      - 2
+articles:
+  '1':
+    id: 1
+    title: what is this about?
+    url: www.victorvulovic.com
+    username: victor
+    commentIds:
+      - 1
+    upvotedBy:
+      - victor
+    downvotedBy: []
+    comments: []
+  '2':
+    id: 2
+    title: "here's another article for sample's sake"
+    url: www.sample.com
+    username: victor
+    commentIds:
+      - 2
+    upvotedBy: []
+    downvotedBy:
+      - victor
+    comments: []
+nextArticleId: 3
+comments:
+  '1':
+    id: 1
+    body: does it work?
+    username: victor
+    articleId: 1
+    upvotedBy: []
+    downvotedBy:
+      - victor
+  '2':
+    id: 2
+    body: yo yo yo
+    username: victor
+    articleId: 2
+    upvotedBy:
+      - victor
+    downvotedBy: []
+nextCommentId: 3
